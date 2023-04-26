@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace BobboNet.PlayerBehaviour.FirstPersonMovement
+namespace BobboNet.PlayerBehaviours
 {
     [RequireComponent(typeof(PlayerBehaviourGravity))]
     public class PlayerBehaviourFirstPersonMovement : PlayerBehaviour
