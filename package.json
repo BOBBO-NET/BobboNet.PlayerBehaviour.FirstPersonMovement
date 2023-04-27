@@ -8,6 +8,6 @@
   },
   "dependencies": {
     "net.bobbo.player-controller": "0.0.1",
-    "net.bobbo.player-behaviour-gravity": "0.0.1"
+    "net.bobbo.player-behaviour.gravity": "0.0.1"
   }
 }
